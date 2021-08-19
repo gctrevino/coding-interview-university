@@ -252,7 +252,7 @@ Fork the GitHub repo https://github.com/jwasham/coding-interview-university by c
 
 `git checkout -b progress`
 
-`git remote add jwasham https://github.com/jwasham/coding-interview-university`
+`git remote add jwasham git@github.com:jwasham/coding-interview-university.git`
 
 `git fetch --all`
 
